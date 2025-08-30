@@ -1,4 +1,4 @@
-# Hi, I'm Udayan 👋  
+# Hi, I'm Udayan Gupta 👋  
 
 🎓 Dual Degree Student @ **Indian Institute of Technology Madras**  
 - **B.Tech in Engineering Design**  
@@ -46,6 +46,6 @@
 ---
 
 ## 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/udayan-gupta-264853259/)*  
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/udayan-gupta-264853259/))  
 - [Email](mailto:ed22b011@smail.iitm.ac.in)  
 - [GitHub](https://github.com/flol1973)
