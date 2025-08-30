@@ -21,7 +21,10 @@
   Developed a simulation framework for epidemic spread using grid-based approaches, exploring the effects of neighbourhood-based interactions on infection dynamics.  
 
 - 🔄 **Bi-Disperse Collective Behaviour Modelling (FSM)**  
-  Modelled collective dynamics in multi-agent systems using **Future State Maximisation (FSM)**, where agents consider both self- and neighbour-future accessibility. Captured group-level coordination and cooperative dynamics in bi-disperse agent populations.  
+  Modelled collective dynamics in multi-agent systems using **Future State Maximisation (FSM)**, where agents consider both self- and neighbour-future accessibility. Captured group-level coordination and cooperative dynamics in bi-disperse agent populations.
+
+- 🔋 **Nonlinear Battery Modelling for Thermal Runaway**  
+  Developed a physics-based MATLAB framework to simulate **thermal runaway in Li-ion batteries**, including SEI breakdown and electrolyte depletion. Predicted critical failure temperatures (>110 °C), and presented findings at **PyBaMM 2025 (London, UK)** on advances in battery safety modelling.  
 
 - 🚶 **Gait Model Simulation**  
   Converted MATLAB pedestrian flow/gait model into a custom Python environment, including interaction force dynamics.  
