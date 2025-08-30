@@ -46,6 +46,6 @@
 ---
 
 ## 📫 Let's Connect  
-- [LinkedIn]((https://www.linkedin.com/in/udayan-gupta-264853259/))  
+- [LinkedIn](https://www.linkedin.com/in/udayan-gupta-264853259/)  
 - [Email](mailto:ed22b011@smail.iitm.ac.in)  
 - [GitHub](https://github.com/flol1973)
